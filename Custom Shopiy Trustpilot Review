@@ -1,16 +1,6 @@
 Method 1:
 ========
 
-{% comment %}
----------------------------------------------------------
-Copyright © 2023 Section Store. All rights reserved.
-Unauthorized copying, modification, distribution, or use
-of this code or any portion of it, is strictly prohibited.
-Violators will be prosecuted to the fullest extent of the law.
-For inquiries or permissions, contact daniel@section.store
----------------------------------------------------------
-{% endcomment %}
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
 
 {%- liquid 
